@@ -59,6 +59,8 @@ async def main():
     I had to restart it three times, and in the end, the picture still wouldn't upload. 
     It's really frustrating and makes the app feel unreliable.
     """
+    #  I use the dashboard every day to monitor metrics, and it works well overall. But when I'm working late at night, the bright screen is really harsh on my eyes. If you added a dark mode option, it would make the experience much more comfortable.
+    #  I reached out to your customer support yesterday because I couldn't access my account. The representative responded almost immediately, was polite and professional, and fixed the issue within minutes. Honestly, it was one of the best support experiences I've ever had.
     
 
     # Create a sequential orchestration
